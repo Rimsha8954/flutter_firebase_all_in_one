@@ -4,13 +4,11 @@
 Welcome to this complete Firebase + Flutter integration repository!  
 This project is dedicated to exploring and implementing all major Firebase features in Flutter using clean architecture and best practices.
 
----
 
 ## 📱 Project Goal
 
 To build a hands-on reference for all Firebase services with Flutter, helping developers and learners understand how to implement and test each feature individually and collectively.
 
----
 
 ## 🧰 Features Covered
 
@@ -46,7 +44,7 @@ To build a hands-on reference for all Firebase services with Flutter, helping de
   - Real-time error tracking  
   - Measuring app startup and performance  
 
----
+
 
 ## 📂 Project Structure
 
@@ -83,7 +81,7 @@ You can explore each section independently to learn and practice that specific f
 
 5. Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) files to the project.
 
----
+
 
 ## 🛡️ Requirements
 
@@ -92,13 +90,13 @@ You can explore each section independently to learn and practice that specific f
 - Android Studio / VSCode
 - A Firebase project
 
----
+
 
 ## 🙌 Contributions
 
 Feel free to fork, suggest improvements, or raise issues. Let’s build this into a solid learning resource for the Flutter community!
 
----
+
 
 ## 📧 Contact
 
@@ -106,6 +104,6 @@ Created by **Rimsha Ashraf**
 Email: rimshaashraf802@gmail.com  
 LinkedIn: [www.linkedin.com/in/rimshaashrafcoding/] 
 
----
+
 
 
